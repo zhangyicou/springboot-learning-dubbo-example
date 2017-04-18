@@ -2,7 +2,7 @@
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
 ## 作者与学习乐园
-源码地址：我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
+源码地址：[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
 作者：[泥瓦匠BYSocket](http://www.bysocket.com/ "泥瓦匠BYSocket")<br>
 QQ 群<br>
 编程之美① 365234583  [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4U "编程之美") <br>
